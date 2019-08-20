@@ -12,5 +12,13 @@ namespace EpamTask2
         {
 
         }
+        public override void DrawVirtual()
+        {
+            Console.WriteLine("Squere");
+        }
+        public override void DrawI()
+        {
+            Console.WriteLine("Squere");
+        }
     }
 }

@@ -11,5 +11,13 @@ namespace EpamTask2
         {
 
         }
+        public override void DrawVirtual()
+        {
+            Console.WriteLine("Rectangle");
+        }
+        public override void DrawI()
+        {
+            Console.WriteLine("Rectangle");
+        }
     }
 }
